@@ -1,0 +1,5 @@
+Literal		Address
+
+=X'1010'		25
+=C'YOU'		27
+=C'ME'		3599
